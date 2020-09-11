@@ -23,7 +23,6 @@ lazy-object-proxy==1.4.3
 lxml==4.4.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
-nftables==0.1
 ntplib==0.3.3
 olefile==0.46
 ordered-set==3.1
