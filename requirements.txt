@@ -40,7 +40,6 @@ pyinotify==0.9.6
 pyinstaller==4.0
 pyinstaller-hooks-contrib==2020.7
 pylint==2.5.3
-pyOpenSSL==19.0.0
 python-meh==0.48
 pytz==2020.1
 pyudev==0.22.0
