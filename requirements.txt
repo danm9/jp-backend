@@ -35,7 +35,6 @@ pycparser==2.19
 pycrypto==2.6.1
 pycups==2.0.1
 pycurl==7.43.0.5
-pyenchant==2.0.0
 PyGObject==3.36.1
 pyinotify==0.9.6
 pyinstaller==4.0
